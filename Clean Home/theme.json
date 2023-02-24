@@ -1,0 +1,10 @@
+{
+    "name": "Sample Simple Home Theme",
+    "author": "RanaBlasphema",
+    "manifest_version": 3,
+    "target": "Other",
+    "description": "This is a sample theme that changes a couple home display settings",
+    "inject": {
+        "shared.css": ["SP"]
+    }
+}
